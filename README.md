@@ -57,7 +57,7 @@ Uberlândia, Brazil
 
 # 📚 LeetCode
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Leonardo_Grosso?theme=unicorn&font=Libre%20Franklin&ext=activity)](https://leetcode.com/Leonardo_Grosso)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Leonardo_Grosso?theme=transparent&font=Noto%20Sans%20Bengali&ext=activity)
 
 ---
 
